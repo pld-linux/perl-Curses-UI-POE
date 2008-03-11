@@ -33,7 +33,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A module that makes Curses::UI POE friendly.
 
 %description -l pl.UTF-8
-Modu≥ perlowy ktory zmienia Curses::UI w bardziej przyjazne dla POE.
+Modu≈Ç perlowy ktory zmienia Curses::UI w bardziej przyjazne dla POE.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
